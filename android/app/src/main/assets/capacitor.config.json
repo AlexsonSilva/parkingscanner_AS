@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "parkingscannerIonic",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

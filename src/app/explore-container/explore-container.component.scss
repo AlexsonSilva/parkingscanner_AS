@@ -1,27 +1,33 @@
 #container {
   text-align: center;
 
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 50%;
-  transform: translateY(-50%);
 }
 
-#container strong {
-  font-size: 20px;
-  line-height: 26px;
+.table {
+
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  background-color:#62727b;
+  color: rgb(0, 0, 0);
+  padding: 30px;
+  border: 3px solid rgb(97, 97, 97);
 }
 
-#container p {
-  font-size: 16px;
-  line-height: 22px;
-
-  color: #8c8c8c;
-
-  margin: 0;
-}
-
-#container a {
+.button {
+  background-color: #62727b; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
   text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
 }
+
+
+
+
+
+
+
